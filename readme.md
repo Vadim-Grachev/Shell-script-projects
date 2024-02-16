@@ -6,7 +6,7 @@ Most projects consist of two files: The bash script file *.sh and the database d
 ## Project list
 
 1. Celestial Bodies Database:
-   -> universe.sql
+   \nuniverse.sql
 2. World Cup Database
    -> insert_data.sh - data POST
    -> queries.sh - data GET
