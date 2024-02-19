@@ -1,11 +1,11 @@
-# Demo_repo
+# Shell script projects
 
 Here are final projects for the Relational Database course at freecodecamp.org
-Most projects consist of two files: The bash script file *.sh and the database dump in .sql
+Most projects consist of two files: The bash script file in *.sh and the database dump in *.sql
 
-## Project list
+## Projects list
 
-1. Celestial Bodies Database:
+1 Celestial Bodies Database:
       universe.sql
 2. World Cup Database
       insert_data.sh - data POST
